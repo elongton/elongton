@@ -24,6 +24,8 @@ I'm working towards increasing the number of pure control and machine learning p
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlinfosite]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitinfosite]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][dockerinfosite]
+[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlabinfosite]
+[<img align="left" alt="Photoshop" width="26px" src="https://avatars.githubusercontent.com/u/4542585?s=200&v=4" />][photoshopinfosite]
 
 
 
@@ -41,6 +43,8 @@ I'm working towards increasing the number of pure control and machine learning p
 [dockerinfosite]: https://www.docker.com/
 [pythoninfosite]: https://www.python.org/
 [djangoinfosite]: https://www.djangoproject.com/
+[matlabinfosite]: https://www.mathworks.com/products/matlab.html
+[photoshopinfosite]: https://www.adobe.com/products/photoshop/landpa.html
 <!--
 **elongton/elongton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
