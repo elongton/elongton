@@ -1,4 +1,4 @@
-### Hi there, call me Max 👋
+### Hey, call me Max 👋
 
 I'm one of those hybrid types of engineers who tends to uber focus on a subject for years before feeling competant.  I'm interested in entrepreneurship and run a couple websites, including [tuneanything.com](https://tuneanything.com), [savvy.engineer](https://savvy.engineer), and [offrailsadventures.com](https://offrailsadventures.com). But my real passions lie in 🚀 control theory, 🤖 machine learning, and 🔭 astronomy.
 
